@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=80&fontAlignY=40&desc=to%20my%20GitHub&descAlign=70&descAlignY=60)
 ***
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gotoplace&count_private=true&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kisubchoe&count_private=true&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 ***
